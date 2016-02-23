@@ -1,0 +1,41 @@
+/* CSS
+Website: My Programming Site v.1
+Author: MARCO POGGIO */
+
+body{
+	background:#FFFC3B;
+	font-family: Garamond, serif;
+}
+
+h1{
+	color:#000000;
+	color:rgba(233,32,6,.8);
+	font-family:tahoma, sans-serif;
+}
+p{
+	color:#1486CC;
+}
+
+p:first-letter{
+	font-size: 28px;
+	font-weight: bold;
+}
+
+h1:hover{
+	color:magenta;
+}
+hr{border-color: #000000;
+}
+
+/*container style*/
+#content{
+	width:650px;
+	border-width: 4px;
+	border-color: #000;
+	border-style: solid;
+	background-color: rgba(27,27,27,.4);
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 50px;
+
+}
