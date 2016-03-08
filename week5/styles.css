@@ -1,0 +1,79 @@
+/* CSS
+Website: My Programming Site v.2
+Author: MARCO POGGIO aaa*/
+
+h1{
+	text-align:center;
+	font-family:arial;
+	font-size:40px;
+	border-bottom:1px solid #ccc;
+	width:40%;
+	margin-bottom:20px auto;
+	padding:20px;
+}
+
+#lightblue{
+	background-color:DarkCyan;
+	
+}
+
+.circle{
+	width:300px;
+	height:300px;
+	border-radius:100%;
+	background:#000;
+}
+
+.box{
+	display:block;
+	float:left;
+	width:300px;
+	height:300px;
+	border:1px solid #000;
+
+}
+
+#content{
+	margin:0 auto;
+
+}
+#left{
+	width:320px;
+	float:left;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+#right{
+	width:640px;
+	float:left;
+	position:relative;
+}
+
+}
+#lightblue{
+	background-color:blue;
+}
+#darkblue{
+	background-color: blue;
+}
+
+#red{
+	background-color: red;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+#green{
+	background-color: green;
+	margin-right:20px;
+
+}
+#yellow{
+	background-color: yellow;
+
+}
+#black{
+	background-color: black;
+	position:absolute;
+	top: 160px;
+	left: 160px;
+}
